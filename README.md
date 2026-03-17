@@ -45,14 +45,6 @@ Aplicação web responsiva desenvolvida em equipe para apoio ao trabalho remoto,
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorMelo10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorMelo10&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
-</p>
- 
-<p align="left">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorMelo10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   &nbsp;
   <img alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorMelo10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>

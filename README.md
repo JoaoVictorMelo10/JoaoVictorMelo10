@@ -87,7 +87,7 @@ PWA full-stack para controle de rebanho e operação de uma fazenda de gado, com
 </p>
 
 <p align="left">
-  <img height="180" alt="Sequência de commits" src="https://streak-stats.demolab.com?user=JoaoVictorMelo10&hide_border=true&background=0D1117&stroke=2E1065&ring=A855F7&fire=C4B5FD&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR"/>
+  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorMelo10&custom_title=Atividade%20recente&bg_color=0D1117&color=C4B5FD&title_color=A855F7&line=A855F7&point=C4B5FD&area_color=6D28D9&area=true&hide_border=true&radius=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:1B0B33&height=110&section=footer" width="100%"/>

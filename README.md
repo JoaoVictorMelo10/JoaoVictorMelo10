@@ -59,13 +59,13 @@ Construo APIs em Python e sistemas conectados (IoT/Edge). Hoje foco em FastAPI, 
 
 ## <img src="https://img.shields.io/badge/-A855F7?style=flat-square&color=A855F7" height="14"/> Projetos
 
-**[FocusTogether](https://github.com/JoaoVictorMelo10/FocusTogether)** &nbsp;<img src="https://img.shields.io/badge/Vencedor%20da%20Global%20Solution%20FIAP-2E1065?style=flat-square&logoColor=C4B5FD" height="18"/>
+**[FocusTogether](https://github.com/JoaoVictorMelo10/FocusTogether)** &nbsp;<img src="https://img.shields.io/badge/Vencedor%20da%20Global%20Solution%20FIAP-2E1065?style=flat-square&logoColor=C4B5FD" height="18"/><br>
 Aplicação web responsiva para apoio ao trabalho remoto, feita em equipe com HTML, CSS e JavaScript. Nota 100/100 em quatro das cinco disciplinas avaliadas.
 
-**Monitoramento IoT com ESP32** &nbsp;<img src="https://img.shields.io/badge/ESP32%20%C2%B7%20MQTT%20%C2%B7%20Azure-2E1065?style=flat-square" height="18"/>
+**Monitoramento IoT com ESP32** &nbsp;<img src="https://img.shields.io/badge/ESP32%20%C2%B7%20MQTT%20%C2%B7%20Azure-2E1065?style=flat-square" height="18"/><br>
 Dispositivos ESP32 publicando telemetria via MQTT para backend em VM Azure, com persistência e visualização dos dados.
 
-**Sistema de gestão para pecuária** &nbsp;<img src="https://img.shields.io/badge/PWA%20%C2%B7%20Full--stack%20%C2%B7%20Offline-2E1065?style=flat-square" height="18"/>
+**Sistema de gestão para pecuária** &nbsp;<img src="https://img.shields.io/badge/PWA%20%C2%B7%20Full--stack%20%C2%B7%20Offline-2E1065?style=flat-square" height="18"/><br>
 PWA full-stack para controle de rebanho e operação de uma fazenda de gado, com acesso offline.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,100:A855F7&height=3&section=header" width="100%"/>
@@ -73,8 +73,17 @@ PWA full-stack para controle de rebanho e operação de uma fazenda de gado, com
 ## <img src="https://img.shields.io/badge/-A855F7?style=flat-square&color=A855F7" height="14"/> Estatísticas
 
 <p align="left">
-  <img height="165" alt="Estatísticas gerais" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorMelo10&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&ring_color=A855F7&rank_icon=github"/>
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorMelo10&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C4B5FD"/>
+  <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoVictorMelo10&theme=dracula"/>
+</p>
+
+<p align="left">
+  <img height="190" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoVictorMelo10&theme=dracula"/>
+  <img height="190" alt="Linguagens mais commitadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoVictorMelo10&theme=dracula"/>
+</p>
+
+<p align="left">
+  <img height="190" alt="Estatísticas gerais" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoVictorMelo10&theme=dracula"/>
+  <img height="190" alt="Horários mais produtivos" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoVictorMelo10&theme=dracula&utcOffset=-3"/>
 </p>
 
 <p align="left">

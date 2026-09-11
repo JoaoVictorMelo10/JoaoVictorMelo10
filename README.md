@@ -86,8 +86,4 @@ PWA full-stack para controle de rebanho e operação de uma fazenda de gado, com
   <img height="190" alt="Horários mais produtivos" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoVictorMelo10&theme=dracula&utcOffset=-3"/>
 </p>
 
-<p align="left">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorMelo10&custom_title=Atividade%20recente&bg_color=0D1117&color=C4B5FD&title_color=A855F7&line=A855F7&point=C4B5FD&area_color=6D28D9&area=true&hide_border=true&radius=8"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:1B0B33&height=110&section=footer" width="100%"/>
